@@ -7,8 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🎓Sou formada em Administração
 - 💼 Em transição de carreira para área de Tecnologia
-- 👩🏻‍💻 Aprendendo sobre Desenvolvimento Web na [Laboratoria](https://www.laboratoria.la/br)
-- 💻 Atualmente aprendendo sobre [Angular](https://github.com/angular)
+- 👩🏻‍💻 Graduada no Bootcamp [Laboratoria](https://www.laboratoria.la/br)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,nodejs,jest,bootstrap,angular,typescript,vscode,ps,figma&theme=dark)](https://skillicons.dev)
 
